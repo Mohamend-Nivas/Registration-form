@@ -27,7 +27,7 @@ A simple, responsive registration form built with HTML, CSS and JavaScript that 
 
 - **Mohamed Nivas**
 - **GitHub:** Mohamend-Nivas
-- **Live Demo:** [Registration-form]
+- **Live Demo:** [Registration-form](https://mohamend-nivas.github.io/Registration-form/)
 
 ## Installation
 1. Clone the repository:
