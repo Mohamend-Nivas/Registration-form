@@ -26,4 +26,4 @@ A simple, responsive registration form built with HTML, CSS and JavaScript that 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/registration-form.git
+   git clone https://github.com/Mohamend-Nivas/Registration-form.git
