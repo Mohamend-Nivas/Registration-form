@@ -23,6 +23,12 @@ A simple, responsive registration form built with HTML, CSS and JavaScript that 
 - **Email:** Must be a valid email address format
 - **Password:** Minimum 6 characters
 
+## Author
+
+- **Mohamed Nivas**
+- **GitHub:** Mohamend-Nivas
+- **Live Demo:** [Registration-form]
+
 ## Installation
 1. Clone the repository:
    ```bash
